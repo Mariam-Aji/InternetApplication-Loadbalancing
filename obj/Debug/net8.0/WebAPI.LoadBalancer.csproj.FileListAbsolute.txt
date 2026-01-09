@@ -31,3 +31,4 @@ C:\Users\redwa\Desktop\aspnetcore8_complete_project\WebAPI.LoadBalancer\obj\Debu
 C:\Users\redwa\Desktop\aspnetcore8_complete_project\WebAPI.LoadBalancer\obj\Debug\net8.0\WebAPI.LoadBalancer.pdb
 C:\Users\redwa\Desktop\aspnetcore8_complete_project\WebAPI.LoadBalancer\obj\Debug\net8.0\WebAPI.LoadBalancer.genruntimeconfig.cache
 C:\Users\redwa\Desktop\aspnetcore8_complete_project\WebAPI.LoadBalancer\obj\Debug\net8.0\ref\WebAPI.LoadBalancer.dll
+C:\Users\redwa\Desktop\aspnetcore8_complete_project\WebAPI.LoadBalancer\obj\Debug\net8.0\WebAPI.LoadBalancer.sourcelink.json
